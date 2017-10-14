@@ -1,0 +1,16 @@
+{
+    "title": "Innovit",
+    "name": "samaneyaghoobi.innovit",
+     "description": "Innovit Theme for http://brackets.io/",
+    "version": "1.0.0",
+    "author": "Samane Yaghoobi (https://github.com/SamaneYaghoobi)",
+    "homepage": "https://github.com/SamaneYaghoobi/Innovit",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "Innovit.css",
+        "dark": true
+    }
+}
