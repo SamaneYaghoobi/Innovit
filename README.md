@@ -4,7 +4,7 @@
 
 # Innovit Theme
 
-##### To My Favorite Editor [Brackets](http://brackets.io/).
+### To My Favorite Editor [Brackets](http://brackets.io/).
 
 A _dark_ Syntax Theme that is really _Friend_ to the Eyes.
 
