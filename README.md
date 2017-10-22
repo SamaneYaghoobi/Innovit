@@ -8,6 +8,15 @@
 
 A _dark_ Syntax Theme that is really _Friend_ to the Eyes.
 
+## Installation
+
+This extension requires Brackets Release 1.0 or newer.
+
+1. Open Brackets
+2. Open the Extension Manager
+3. Switch to "Themes" tab
+4. Search for "Innovit"
+5. Click "Install"
 
 #### HTML
 ![HTML Screenshot](https://github.com/SamaneYaghoobi/Innovit/blob/master/ScreenShots/HTML.jpg)
