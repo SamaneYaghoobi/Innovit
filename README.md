@@ -6,7 +6,7 @@
 
 #### To My Favorite Editor [Brackets](http://brackets.io/).
 
-A _dark_ Syntax Theme that is really _Friend_ to the Eyes.
+A _dark_ Syntax Theme that is really _eye-friendly_.
 
 ## Installation
 
@@ -29,3 +29,6 @@ This extension requires Brackets Release 1.0 or newer.
 #### JavaScript
 ![JS Screenshot](https://github.com/SamaneYaghoobi/Innovit/blob/master/ScreenShots/JS.jpg)
 
+##License
+
+The MIT License. Read [LICENSE](LICENSE) for further information.
