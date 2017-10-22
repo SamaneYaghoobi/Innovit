@@ -29,6 +29,6 @@ This extension requires Brackets Release 1.0 or newer.
 #### JavaScript
 ![JS Screenshot](https://github.com/SamaneYaghoobi/Innovit/blob/master/ScreenShots/JS.jpg)
 
-##License
+## License
 
 The MIT License. Read [LICENSE](LICENSE) for further information.
