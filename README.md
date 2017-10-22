@@ -18,6 +18,8 @@ This extension requires Brackets Release 1.0 or newer.
 4. Search for "Innovit"
 5. Click "Install"
 
+## Screenshots
+
 #### HTML
 ![HTML Screenshot](https://github.com/SamaneYaghoobi/Innovit/blob/master/ScreenShots/HTML.jpg)
 
