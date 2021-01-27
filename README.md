@@ -1,6 +1,3 @@
-[![Downloads](https://badges.ml/samaneyaghoobi.innovit/total.svg)](https://brackets-extension-badges.github.io#samaneyaghoobi.innovit)
-[![Downloads](https://badges.ml/samaneyaghoobi.innovit/week.svg)](https://brackets-extension-badges.github.io#samaneyaghoobi.innovit)
-[![Downloads](https://badges.ml/samaneyaghoobi.innovit/day.svg)](https://brackets-extension-badges.github.io#samaneyaghoobi.innovit)
 
 # Innovit Theme
 
